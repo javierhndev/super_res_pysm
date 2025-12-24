@@ -1,0 +1,6 @@
+matplotlib
+numpy
+Pillow
+pixell==0.31.7
+ipykernel
+h5py
